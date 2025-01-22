@@ -2,3 +2,6 @@ h1 -> titulo com ordem de importancia comecndo por h1
 P -> paragrapgh
 BR -> tag para quebra de linhas/ tag to break lines
 a -> cria link / create a link
+pre -> pre formatados, pre formate, obdece o que fala, ex estilo poema
+style -> its use for give style aand cacterists at elemts HTML
+div -> division tag / delimita espaco
