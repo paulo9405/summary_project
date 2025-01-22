@@ -1,0 +1,4 @@
+h1 -> titulo com ordem de importancia comecndo por h1
+P -> paragrapgh
+BR -> tag para quebra de linhas/ tag to break lines
+a -> cria link / create a link
