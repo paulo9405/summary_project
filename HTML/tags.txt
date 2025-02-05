@@ -5,3 +5,8 @@ a -> cria link / create a link
 pre -> pre formatados, pre formate, obdece o que fala, ex estilo poema
 style -> its use for give style aand cacterists at elemts HTML
 div -> division tag / delimita espaco
+head -> tag de coversar cm o navegador, passar informacoes para o navegador, que nao precisa ser mostrada no documento ma que e importante
+base -> define a url base fdo documento, e pode ser consultaada em tempo real, qual a url que esta ssetada atraves do document.baseURI 
+head -> delimitao cabecalho
+link -> incluir recursos dentro do document
+meta -> passaer meta informacoes ao navegador, informacoes relevantes: ex usa o charset para identificar se a palavra tem acento
